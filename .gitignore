@@ -15,7 +15,6 @@ build/
 Thumbs.db
 
 # Firebase secrets
-google-services.json
 GoogleService-Info.plist
 
 # Environment

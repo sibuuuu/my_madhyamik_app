@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "662929528256",
+    "firebase_url": "https://madhyamik-app-2c80d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "madhyamik-app-2c80d",
+    "storage_bucket": "madhyamik-app-2c80d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662929528256:android:2c0d5ac9fa17e904e92425",
+        "android_client_info": {
+          "package_name": "com.example.my_madhyamik_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZMNp8TEv7kurG7MTAdE3UuzhGOjLHwxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
